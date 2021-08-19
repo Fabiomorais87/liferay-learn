@@ -6,12 +6,10 @@
 
 1. Log in to your [LivePerson account](https://authentication.liveperson.net/login.html).
 
-1. Click on the *User icon* on the left bottom corner <!-- @Fabio/Evelyn - I don't know which icon this is from looking at the screenshot. Please annotate the screenshot so it is more obvious) -->
+1. Click on the *User icon* on the left bottom corner.
 
-    ![Home Dashboard](./liveperson/images/01.png)
+    ![You can see the home dashboard and its information.](./liveperson/images/01.png)
 
-1. On the pop up menu, your Account ID is under your Username as highlighted in the screenshot below. This is your Chat Provider Account ID for *LivePerson*.
+1. In the screenshot below, the portion that is highlighted is used as the Liferay Chat Provider Account ID.  Select and copy this portion and use it as the Chat Provider Account ID to [enable automated live chat integration](./enabling-automated-live-chat-systems.md) with your Liferay instance.
 
-    ![Account ID](./liveperson/images/02.png)
-
-Use this Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+    ![Copy this portion of the ID to use as the Liferay Chat Provider Account ID.](./liveperson/images/02.png)

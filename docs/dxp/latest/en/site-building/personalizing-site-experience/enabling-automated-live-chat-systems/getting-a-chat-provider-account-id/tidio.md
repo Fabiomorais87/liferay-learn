@@ -8,14 +8,12 @@
 
 1. Click the *gear icon* to enter the Settings menu.
 
-    ![Gear icon](./tidio/images/01.png)
+    ![You can see the gear icon in the settings menu.](./tidio/images/01.png)
 
 1. Go to the *General* section and click the *Developer* menu option.
-  
-    ![Developer under General](./tidio/images/02.png)
 
-1. The *Public Key* provided by Tidio is your Chat Provider Account ID.
-  
-    ![Chat Provider Id](./tidio/images/03.png)
+    ![The image shows the general section and the developer menu option.](./tidio/images/02.png)
 
-Use this Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+1. Copy the *Public Key* and use it as the Chat Provider Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+  
+    ![Copy the Public Key to use as your Chat Provider Account ID.](./tidio/images/03.png)

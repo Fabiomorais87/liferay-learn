@@ -6,12 +6,14 @@
 
 1. Log in to your [Zendesk account](https://www.zendesk.com/login/#login).
 
-1. On the Dashboard home page, click on the *Manage widget* link. <!-- Is this always where the link will be? -->
+1. On the Dashboard home page, click on the *Manage widget* link. 
 
-    ![Dashboard page](./zendesk/images/01.png)
+    ![You can see the Zendesk Dashboard page.](./zendesk/images/01.png)
 
-1. Zendesk provides a code snippet to embed their web widget. The Account ID is the portion of the snippet after `...snippet.js?key=`. Select and copy that portion of the snippet.
+1. (Optional) Go to *Settings* and follow the instructions in the next step.  
 
-   ![Example](./zendesk/images/03.png)
+    ![You can see the Zendesk settings section.](./zendesk/images/02.png)
 
-Use this Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+1. Zendesk provides a code snippet to embed their web widget. The Account ID is the portion of the snippet after `...snippet.js?key=`. Select and copy that portion of the snippet and use it as the Chat Provider Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+
+   ![Copy the portion of the snippet and use it as the Chat Provider Account ID.](./zendesk/images/03.png)

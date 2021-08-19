@@ -6,18 +6,14 @@
 
 1. Log in to your [Tawk.to account](https://dashboard.tawk.to/login).
 
-1. Click on the *Administration* button. <!-- @Fabio/Evelyn - please annotate the screenshot so it's more obvious where someone needs to click and look. -->
+1. Click on the *Administration* button. 
 
-    ![Administration Button](./tawk-to/images/01.png)
+    ![You can see the Tawk-to Administration Button.](./tawk-to/images/01.png)
 
 1. Go to *Channels* and click on *Chat Widget*.
 
-    ![Chat Widget option](./tawk-to/images/02.png)
+    ![The Chat Widget option is shown.](./tawk-to/images/02.png)
 
-1. Under the *Direct Chat Link* header, copy the portion of text from the URL provided as demonstrated in the screenshot below.
+1. Under the *Direct Chat Link* header, Copy the highlighted portion of the URL use it as the Chat Provider Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
 
-    ![Copy the chat link](./tawk-to/images/03.png)
-
-    The highlighted portion of the URL is your Tawk.to Account ID.
-
-Use this Account ID to [enable automated live chat integration](../enabling-automated-live-chat-systems.md) with your Liferay instance.
+    ![Use this portion of the Direct Chat Link as the Liferay Chat Account ID.](./tawk-to/images/03.png)
