@@ -8,7 +8,7 @@ Follow these steps to add a widget to a Widget Page:
 
     ![The Widgets panel contains several default widgets that you can use to add functionality to the page.](./adding-widgets-to-a-page/images/01.png)
 
-1. Open the *Widgets* panel and either browse through the categories of available widgets until you find the one you want, or you can search for widgets by name.
+1. Open the *Widgets* panel and either browse through the categories of available widgets until you find the one you want, or search for widgets by name.
 1. Drag the widget to the column and row of the page layout where you want to place it.
 
 ```tip::
