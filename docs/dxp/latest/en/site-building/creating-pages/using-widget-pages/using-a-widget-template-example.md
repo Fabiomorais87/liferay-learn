@@ -10,7 +10,7 @@ Widget Templates have the power of transforming your site into an enjoyable and 
 
 	![Go to Content and Management in the Widgets section to add the Media Gallery.](./using-a-widget-template-example/images/02.png)
 
-1.  (Optional) Notice the default format of the pictures. To change the display template for this widget, navigate to *Actions* (![Actions](../../../images/icon-actions.png)) &rarr; under *Page Elements* customize the elements on *Styles*.
+1.  Optionally, notice the default format of the pictures. To change the display template for this widget, navigate to *Actions* (![Actions](../../../images/icon-actions.png)) &rarr; under *Page Elements* customize the elements on *Styles*.
 
 Customizing the user interface of @product@'s bundled widgets provides the ultimate customization experience for Liferay users.
 
