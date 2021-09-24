@@ -1,46 +1,43 @@
 # Using Display Page as Navigation Menu Item and Page Link
 
-You can now create a navigation menu item for a navigation menu that will point to the display page of a given item. This will allow to create menus with Pages and Display Pages for documents, webcontent, and blogs when they have a display page template associated types of items.
+You can now create a Navigation Menu Item for a navigation menu that points to the *Display Page* of a given item. This allows you to create menus with pages and display pages for documents, web content, and blogs when they have a display page template associated.
 
 Getting started with Display Page as Navigation Menu Item and Page Links involves:
 
-- [Using Display Page as Navigation Menu Item and Page Link](#using-display-page-as-navigation-menu-item-and-page-link)
   - [Creating Navigation Menus](#creating-navigation-menus)
   - [Adding a Navigation Menu Item to a Navigation Menu](#adding-a-navigation-menu-item-to-a-navigation-menu)
-    - [Configure the Navigation Menu Widget](#configure-the-navigation-menu-widget)
-  - [Additional Information](#additional-information)
-
-## Creating Navigation Menus
+  - [Configuring the Navigation Menu Widget](#configuring-the-navigation-menu-widget)
+  ## Creating Navigation Menus
 
 1. Click _Product Menu_ (![Product Menu](../../images/icon-product-menu.png)) &rarr; _Site Builder_ &rarr; _Navigation Menus_.
 1. Click the _Add_ button (![Add Page](../../images/icon-add.png)) to add a new menu.
 1. Enter a name: (for example: _New Menu_).
 
-    ![Create a new navigation menu.](./using-display-page-as-navigation-menu-item-and-page-link/images/01.png)
+    ![Create a new Navigation Menu.](./using-display-page-as-navigation-menu-item-and-page-link/images/01.png)
 
 1. Click _Save_ when finished.
 
-The new navigation menu has been created.
+The new Navigation Menu has been created.
 
-##  Adding a Navigation Menu Item to a Navigation Menu
+## Adding a Navigation Menu Item to a Navigation Menu
 
 To add a Navigation Menu Item to a Navigation Menu, follow these steps:
 
 1. Click the _Add_ button (![Add Page](../../images/icon-add.png)) &rarr; *Display Pages*.
 
-    ![Add navigation menu items to a navigation menu.](./using-display-page-as-navigation-menu-item-and-page-link/images/02.png)
+    ![Add Navigation Menu Items to a Navigation Menu.](./using-display-page-as-navigation-menu-item-and-page-link/images/02.png)
 
-1. Once you click on display page, a view to select the item that will be used will appear.
+1. Once you click on *Display Page* a modal window appears.
  
-    ![Select the item that will be used.](./using-display-page-as-navigation-menu-item-and-page-link/images/03.png)
+    ![Select the item to used.](./using-display-page-as-navigation-menu-item-and-page-link/images/03.png)
 
-1. After you click on the item you want to select, a navigation menu item with the type “Display Page“ will be created.
+1. Select an item, then a navigation menu item appears with the type “Display Page“.
 
-    ![Select an item you want to create a navigation menu item with the typw "Display Page" .](./using-display-page-as-navigation-menu-item-and-page-link/images/04.png)
+    ![Select an item you want to create.](./using-display-page-as-navigation-menu-item-and-page-link/images/04.png)
 
-### Configure the Navigation Menu Widget
+## Configuring the Navigation Menu Widget
 
-Now you can configure the navigation menu widget to use the Landmarks Navigation Menu that you created.
+Now you can configure the Navigation Menu Widget to use the Landmarks Navigation Menu you've created.
 
 1. Click _Product Menu_ (![Product Menu](../../images/icon-product-menu.png)) &rarr; _Site Builder_ &rarr; *Pages*
    
@@ -52,11 +49,11 @@ Now you can configure the navigation menu widget to use the Landmarks Navigation
 
 1. Select the Page you want.
    
-   ![Click on the options button.](./using-display-page-as-navigation-menu-item-and-page-link//images/07.png)
+   ![Select the Page you want.](./using-display-page-as-navigation-menu-item-and-page-link//images/07.png)
    
 1. Click *Choose Menu* &rarr; *Select*.
 
-![Click on choose menu and then click select.](./using-display-page-as-navigation-menu-item-and-page-link//images/07.png)
+    ![Click on Choose Menu and then click Select.](./using-display-page-as-navigation-menu-item-and-page-link//images/07.png)
 
 1. Select the Landmark you want to use.
 
@@ -66,7 +63,7 @@ Now you can configure the navigation menu widget to use the Landmarks Navigation
 
 The Navigation Menu has been Configured.
 
-![Navigation Menu has been configured.](./using-display-page-as-navigation-menu-item-and-page-link//images/09.png)
+  ![Navigation Menu has been configured.](./using-display-page-as-navigation-menu-item-and-page-link//images/09.png)
 
 ## Additional Information
 
