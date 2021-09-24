@@ -53,17 +53,17 @@ Now you can configure the Navigation Menu Widget to use the Landmarks Navigation
    
 1. Click *Choose Menu* &rarr; *Select*.
 
-    ![Click on Choose Menu and then click Select.](./using-display-page-as-navigation-menu-item-and-page-link//images/07.png)
+    ![Click on Choose Menu and then click Select.](./using-display-page-as-navigation-menu-item-and-page-link//images/08.png)
 
 1. Select the Landmark you want to use.
 
-    ![Select the Landmark you want to use.](./using-display-page-as-navigation-menu-item-and-page-link//images/0.png)
+    ![Select the Landmark you want to use.](./using-display-page-as-navigation-menu-item-and-page-link//images/09.png)
 
 1. Click _Save_ when finished.
 
 The Navigation Menu has been Configured.
 
-  ![Navigation Menu has been configured.](./using-display-page-as-navigation-menu-item-and-page-link//images/09.png)
+  ![Navigation Menu has been configured.](./using-display-page-as-navigation-menu-item-and-page-link//images/10.png)
 
 ## Additional Information
 
