@@ -1,17 +1,17 @@
 # Using Navigation Menus
 
-By default, Sites start with a _Navigation Menu_ widget that is configured to display the site's [Public Pages](../creating-pages/understanding-pages/understanding-pages.md) hierarchy. In some cases, you may want more direct control or flexibility with how your site's navigation menu is defined and displayed when the default configuration is not sufficient. In these cases you can create and configure new navigation menus.
+By default, Sites start with a _Navigation Menu_ that is configured to display the site's [Public Pages](../creating-pages/understanding-pages/understanding-pages.md) hierarchy. In some cases, you may want more direct control or flexibility with how your site's navigation menu is defined and displayed when the default configuration is not sufficient. In these cases, you can create and configure new navigation menus.
 
 Getting started with Navigation Menus involves:
 
 1. [Creating a Navigation Menu](#creating-navigation-menus)
 1. Adding items to the menu like [existing pages](#assigning-pages-to-a-navigation-menu), adding links, or sub-menus
 1. Optionally, [categorizing the navigation menu](#categorize-a-navigation-menu) to serve a particular function on your site
-1. Adding the Navigation Menu widget (if it is not already present) to a page and [configuring it](./configuring-navigation-menus.md)
+1. Adding the Navigation Menu (if it is not already present) to a page and [configuring it](./configuring-navigation-menus.md)
 
-For example, a navigation menu can contain all child pages of a given page. You can display the menu using the Navigation Menu widget on the parent page. This creates a navigation that only displays the child pages selected, in effect creating a mini-site.
+For example, a navigation menu can contain all child pages of a given page. You can display the menu using the Navigation Menu on the parent page. This creates a navigation that only displays the child pages selected, in effect creating a mini-site.
 
-![The Navigation Menu widget can be configured to display the pages that you want.](./using-navigation-menus/images/09.png)
+![The Navigation Menu can be configured to display the pages that you want.](./using-navigation-menus/images/09.png)
 
 ```tip::
    In DXP 7.3+, you can use Custom Fields to add more information to each item in your navigation menus (under `Site Navigation Menu Item` in the `Custom Fields` menu). You can then use Application Display Templates to use this information to further customize your navigation menus.
@@ -26,24 +26,22 @@ For example, a navigation menu can contain all child pages of a given page. You 
 
     ![Create a new navigation menu.](./using-navigation-menus/images/01.png)
 
-1. Click _Save_ when finished.
-
-The new navigation menu has been created.
+1. Click _Save_.
 
 ## Assigning Pages to a Navigation Menu
 
-There are two main ways to assign existing pages to a navigation menu: click the _New_ button or the _Add_ button (![Add Page](../../images/icon-add.png)).
+From the Navigation Menu application, open the Navigation Menu you want to modify.
 
-1. Click _New_ &rarr; _Page_.
+1. click the _New_ button or the _Add_ button (![Add Page](../../images/icon-add.png)).
 
     ![Create a new Navigation Menu.](./using-navigation-menus/images/02.png)
 
-1. Select the pages to be included into this navigation menu; in this example, three child pages from the private pages are to be included.
+1. Select the elements to include in this Navigation Menu; in this example, three child Pages from the Private Pages were included.
 
     ![Select the pages to be included in the Navigation Menu.](./using-navigation-menus/images/03.png)
 
-1. Click _Add_ when finished.
-1. Verify that the new navigation menu has been created.
+1. Click _Add_ .
+1. Verify your Navigation Menu items.
 
     ![Verify that the new navigation menu has the child pages.](./using-navigation-menus/images/04.png)
 

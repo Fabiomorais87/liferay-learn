@@ -1,6 +1,6 @@
 # Configuring Navigation Menus
 
-To display and configure a [Navigation Menu](./using-navigation-menus.md), you can use the [Menu Display Fragment](../creating-pages/building-and-managing-content-pages/page-fragments-user-interface-reference.md#menu-display) (available in Liferay DXP 7.4+) or Navigation Menu Widget. With any of these two options, you can define the menu display options and create different navigation levels for your Site.
+To display and configure a [Navigation Menu](./using-navigation-menus.md), you can use the [Menu Display Fragment](../creating-pages/building-and-managing-content-pages/page-fragments-user-interface-reference.md#menu-display) (available in Liferay DXP 7.4+) or the Navigation Menu Widget. With any of these two options, you can define the menu display options and create different navigation levels for your Site.
 
 ```note::
    Configuring the Menu Display Fragment is easier than the Navigation Menu Widget, and you have preview options working with `Master Page Template <../creating-pages/defining-headers-and-footers/creating-a-master-page-template.md>`_ that Navigation Menu Widgets do not provide.
@@ -10,13 +10,13 @@ To display and configure a [Navigation Menu](./using-navigation-menus.md), you c
 
 > Available: Liferay DXP 7.4+.
 
-Using the Menu Display Fragment, you can create a navigation menu anywhere in your Content Page. This navigation menu is based on your Site's Public or Private Pages hierarchy, or any other hierarchy you define using Liferay DXP [Navigation Menus](./configuring-navigation-menus.md). You can also define the menu display style options and the number of sub-levels to include in the navigation.
+Using the Menu Display Fragment, you can create a navigation menu anywhere on your Content Page. This navigation menu is based on your Site's Public or Private Pages hierarchy or any other hierarchy you define using Liferay DXP [Navigation Menus](./configuring-navigation-menus.md). You can also define the menu display style options and the number of sub-levels to include in the navigation.
 
 The Menu Display Fragment appears under the Fragments and Widget section of your Content Page. You add and configure this Fragment as with other Fragments in your Content Pages. For more information, see [Adding Elements to Content Pages](../creating-pages/building-and-managing-content-pages/adding-elements-to-content-pages.md) and [Configuring Elements on Content Pages](../creating-pages/building-and-managing-content-pages/configuring-elements-on-content-pages.md).
 
 ![The Menu Display Fragment appears under the Fragments and Widget section of your Content Page.](./configuring-navigation-menus/images/06.png)
 
-You can build the hierarchy of pages and subpages in the Menu Display Fragment using two methods: 
+You can build the hierarchy of pages and subpages in the Menu Display Fragment using two methods:
 
 - **Site Navigation Menus** (A) uses the menus you define using the Liferay DXP Navigation Menu for [Site navigation](./managing-site-navigation.md). By default, Liferay DXP provides two Site Menus based on the Public Pages and Private Pages hierarchies in your Site.
 - **Contextual Menus** (B) shows a menu that is based on the Page context. For example, you can create a more advanced navigation by combining a first-level Menu Display Fragment linked to one of your Site Menus with a second-level Menu Display Fragment that only shows the child Pages. This way, when the user clicks through the different Pages in the first-level menu, the second-level menu changes dynamically to show the children Pages.
@@ -25,7 +25,7 @@ You can build the hierarchy of pages and subpages in the Menu Display Fragment u
 
 ## Configuring the Navigation Menu Widget
 
-Below are all the options possible in the Navigation Menu widget. To access the Configuration menu, click ![Options icon](../../images/icon-widget-options.png) at the top of the navigation menu widget.
+Below are all the options possible in the Navigation Menu widget. To access the Configuration menu, click the Options menu (![Options icon](../../images/icon-widget-options.png)) at the top of the navigation menu widget.
 
 ![Navigate to the Configuration menu.](./configuring-navigation-menus/images/01.png)
 
@@ -61,7 +61,7 @@ You can select a [Widget Template](../displaying-content/additional-content-disp
 | **Bar Minimally Styled** | A lightweight version of the default display that you see in the embedded menu on your page. |
 | **Bar Minimally Justified Styled** | Like Bar Minimally Styled with horizontal padding. |
 | **Bar Default Styled** | The default embedded menu. |
-| **Split Button Dropdowns** | Displays each item as a button with a dropdown  for multiple navigation levels. |
+| **Split Button Dropdowns** | Displays each item as a button with a dropdown for multiple navigation levels. |
 
 ### Menu Items to Show
 
