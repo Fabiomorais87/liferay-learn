@@ -4,9 +4,11 @@
 This information applies to Liferay DXP 7.3+. In previous Liferay versions, Collections were called Content Sets. For information on Content Sets, see [Liferay DXP 7.2](#liferay-dxp-7-2).
 ```
 
-Collections are sets of content items that you can use to group and filter information. Consider the following example. You plan to create a new section in your product web page with customer success stories. You want this section to show new success stories automatically as these stories are published. In this case, you can create a Collection that groups all your success stories with a Collection Page that shows the Collection's content. In addition to Collection Pages, you can show this Collection in other Content Pages using a Collection Display Fragment (for more information, see [Displaying Collections](../../site-building/displaying-content/additional-content-display-options/displaying-collections.md).)
+Collections are sets of content items that can be defined manually or dynamically. Once they are defined, you can display collections using a collection page or collection display fragment. 
 
-There are two types of Collections in Liferay:
+For example, you plan to create a new section in your product web page with customer success stories. You want this section to show new success stories automatically as these stories are published. In this case, you can create a Collection that groups all your success stories with a Collection Page that shows the Collection's content. You can also display success stories in Content Pages using the Collection Display Fragment. See [Displaying Collections](../../site-building/displaying-content/additional-content-display-options/displaying-collections.md) for more information.
+
+## Collection Types 
 
 - **Manual Collection**
 
@@ -20,7 +22,7 @@ There are two types of Collections in Liferay:
 
     For example, for your Kitchenware Store, you create a Collection including all blog posts with the *porcelain* tag (this tag represents your criteria). The Dynamic Collection includes all the new blog posts with the *porcelain* tag automatically.
 
-For information about how to create Manual or Dynamic Collections, see [Creating Collections](./creating-collections.md).
+See [Creating Collections](./creating-collections.md) for more information.
 
 ## Displaying Collections
 
@@ -30,7 +32,7 @@ A Collection Page is a type of page linked to a Collection. Collection Pages eas
 
 ![You can display your Collection using a Collection Page](./about-collections-and-collection-pages/images/01.png)
 
-A Collection Display Fragment is a type of Fragment that shows a Collection. You can use this Fragment to show your Collection on any Content Page, Page Template, or Display Page.
+A Collection Display Fragment is a type of Fragment that shows a Collection. You can use this Fragment to show your Collection on any Content Page, Page Template, or Display Page. <!-- show or display? -->
 
 ![You can show the Collection's content using a Collection Display Fragment](./about-collections-and-collection-pages/images/02.png)
 
@@ -40,9 +42,9 @@ For more information, see [Displaying Collections](../../site-building/displayin
 
 You can associate a Liferay Segment with your Collection to display different Collection items based on the [Segment configuration](../../site-building/personalizing-site-experience/segmentation/creating-and-managing-user-segments.md).
 
-Consider the following example. You want to increase sales in your Kitchenware Store by offering exclusive promotions to registered users. You create a Collection including promotions for registered users and news about your products. You want everyone to see the news about your products, but you want to restrict the promotions to registered users. You can create a new Segment for registered users and link the Segment to a new *Personalized Variation* that filters the promotional content.
+For example, You want to increase sales in your Kitchenware Store by offering exclusive promotions to registered users. You create a Collection including promotions for registered users and news about your products. You want everyone to see the news about your products, but you want to restrict the promotions to registered users. You can create a new Segment for registered users and link the Segment to a new *Personalized Variation* that filters the promotional content.
 
-For information, read [Personalizing Collections](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md).
+For more information, see [Personalizing Collections](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md).
 
 ## Converting Asset Publisher Configurations to Collections
 
@@ -60,13 +62,11 @@ In previous versions of Liferay DXP, you used the Asset Publisher to define and 
 
 ### Creating and Displaying Content Sets
 
-Content Sets are created through the Site Administration interface. All the features for creating and managing Content Sets are contained here. They are displayed using Liferay's widgets or your own custom applications. Read our
-guides for information on [Creating Content Sets](./creating-collections.md#creating-content-sets) and
-[Displaying Content Sets](../../site-building/displaying-content/additional-content-display-options/displaying-collections.md#displaying-content-sets).
+Content Sets are created through the Site Administration interface. All the features for creating and managing Content Sets are contained here. They are displayed using Liferay's widgets or your own custom applications. Read our guides for more information on [Creating Content Sets](./creating-collections.md#creating-content-sets) and [Displaying Content Sets](../../site-building/displaying-content/additional-content-display-options/displaying-collections.md#displaying-content-sets).
 
 ### Content Set Personalization
 
-Content Sets can have variations driven by Liferay DXP's Personalization engine. After you create a Content Set, if you have at least one User Segment created, you can create a personalized experience of the Content Set for that Segment. To learn to harness the power of experience personalization for Content Sets, see [Content Set Personalization](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md#content-set-personalization).
+Content Sets can have variations driven by Liferay DXP's Personalization engine. After you create a Content Set, if you have at least one User Segment created, you can create a personalized experience of the Content Set for that Segment. To learn to harness the power of experience personalization for Content Sets, see [Content Set Personalization](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md#content-set-personalization). <!--To learn how to use/extract the full power/potential of experience personalization for Content Sets, see ... -->
 
 ### Converting Asset Publisher Configurations to Content Sets
 
