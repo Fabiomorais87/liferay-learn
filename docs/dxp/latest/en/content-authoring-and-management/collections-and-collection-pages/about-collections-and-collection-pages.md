@@ -66,7 +66,7 @@ Content Sets are created through the Site Administration interface. All the feat
 
 ### Content Set Personalization
 
-Content Sets can have variations driven by Liferay DXP's Personalization engine. After you create a Content Set, if you have at least one User Segment created, you can create a personalized experience of the Content Set for that Segment. To learn to harness the power of experience personalization for Content Sets, see [Content Set Personalization](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md#content-set-personalization). <!--To learn how to use/extract the full power/potential of experience personalization for Content Sets, see ... -->
+Content Sets can have variations driven by Liferay DXP's Personalization engine. After you create a Content Set, if you have at least one User Segment created, you can create a personalized experience of the Content Set for that Segment. To learn how to use the power of experience personalization for Content Sets, see [Content Set Personalization](../../site-building/personalizing-site-experience/experience-personalization/personalizing-collections.md#content-set-personalization).
 
 ### Converting Asset Publisher Configurations to Content Sets
 
