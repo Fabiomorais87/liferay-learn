@@ -27,7 +27,7 @@ The *General* tab lets you configure the basic information and the design for Wi
 
 **Name:** The title that appears in the browser's title bar, and how the page is identified in the navigation
 
-**Hidden from Navigation Menu Widget:** Whether to include the page in the navigation.
+**Hidden from Menu Display Widget:** Whether to include the page in the navigation.
 
 **Friendly URL:** Defines the page's link. It's best practice to have the URL match the name of the Page, so you should update both fields at the same time.
 
