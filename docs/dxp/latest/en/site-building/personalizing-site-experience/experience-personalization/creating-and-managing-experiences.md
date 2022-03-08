@@ -71,7 +71,7 @@ In order switch among experiences from view to preview follow these steps:
 1. Edit your Content Page with the information and layout you want to show to the selected Segment and *don't publish it*.
 1. To preview go to *Site Builder* &rarr; *Pages* &rarr; Click the Actions (![Actions](../../../images/icon-actions.png)) menu and select *Preview Draft*.
 
-![You can add, edit, delete, or change priority for Experiences.](./creating-and-managing-experiences/images/03.gif)
+![Switch Among Experiences from View to Preview](./creating-and-managing-experiences/images/03.gif)
 
 ## Related Information
 
