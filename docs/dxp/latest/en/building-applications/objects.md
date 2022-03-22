@@ -12,6 +12,7 @@ objects/enabling-workflows-for-objects.md
 objects/using-picklists.md
 objects/understanding-object-integrations.md
 objects/objects-application-permissions.md
+objects/objects-integration-with-third-parties.md
 ```
 
 > Available: Liferay DXP/Portal 7.4+
