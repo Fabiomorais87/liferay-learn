@@ -7,5 +7,3 @@ If you’re selling your app, you must publish using a Paid App Account. You mus
 Importantly, you can’t change the app from free to paid or from paid to free once the app is published to the Marketplace. Offering the app in in both license types requires submitting another app under a different name (title). If you want both free and paid licenses for your app, you must submit the app under one name for free licenses and under another name for paid licenses. Make sure you select the license type (i.e., free or paid) that’s best for your app.
 
 Have you decided who to list as the app’s author/owner? Have you decided manages the app once it’s on the Marketplace? App ownership options are explained next.
-
-## Additional Information 
