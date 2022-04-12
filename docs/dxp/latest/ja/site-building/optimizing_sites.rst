@@ -5,7 +5,7 @@
    :maxdepth: 3
 
    optimizing-sites/seo_optimization.rst
-   optimizing-sites/ab_testing.rst
+   optimizing-sites/ab-testing.rst
 
 .. include:: /site-building/optimizing-sites/README.rst
    :start-line: 2

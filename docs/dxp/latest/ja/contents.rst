@@ -6,7 +6,7 @@
    :includehidden:
    :maxdepth: 6
 
-   getting_started
+   getting-started
    building_solutions_on_dxp
    site_building
    content-authoring-and-management

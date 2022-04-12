@@ -5,7 +5,7 @@
    :maxdepth: 2
 
    site-appearance/using-a-style-book-to-standardize-site-appearance.md
-   site-appearance/developer_guide.rst
+   site-appearance/developer-guide.md
 
 -  :doc:`/site-building/site-appearance/using-a-style-book-to-standardize-site-appearance`
 

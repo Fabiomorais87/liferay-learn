@@ -47,7 +47,7 @@ HSQLのような組み込みデータベースを本番環境で実行したり�
 
 デフォルトのElasticsearchサーバー（サイドカーおよびEmbedded）の一般的な使用法は次のとおりです。
 
-* カスタムの [検索とインデックスコード](../../developer_guide.html) のテスト
+* カスタムの [検索とインデックスコード](../../developer-guide.html) のテスト
 * Kibanaを介してElasticsearchで直接クエリを実行して検索クエリを開発する
 * [検索の調整](../../search_administration_and_tuning.md)機能のテスト
 * [検索ウィジェット](../../search_pages_and_widgets.md)の調査と設定

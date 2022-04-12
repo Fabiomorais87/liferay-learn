@@ -61,7 +61,7 @@
 
 * APIには、独自のコードで呼び出すことができるメソッドが含まれています。 ソースコードでは、 `-api` で終わるモジュールの中にあります（例えば、 [`portal-search-api` モジュール](https://github.com/liferay/liferay-portal/tree/[$LIFERAY_LEARN_PORTAL_GIT_TAG$]/modules/apps/portal-search/portal-search-api) など）。
 
-詳しくは、 [開発者ガイド](../developer_guide.md) をご覧ください。
+詳しくは、 [開発者ガイド](../developer-guide.md) をご覧ください。
 
 <a name="whats-next" />
 

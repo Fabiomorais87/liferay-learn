@@ -55,7 +55,7 @@ Liferay DXPは、ワイドエリアネットワーク（WAN）プロトコルを
 ```
 
 ```{note}
-   Liferay DXPは、カスタムElasticsearchインデックスを作成、使用（書き込み、読み込み）するためのAPIを提供します。 これらのAPIの使用方法については、 [Developer Guide](../../developer_guide.html) を参照してください。
+   Liferay DXPは、カスタムElasticsearchインデックスを作成、使用（書き込み、読み込み）するためのAPIを提供します。 これらのAPIの使用方法については、 [Developer Guide](../../developer-guide.html) を参照してください。
 ```
 
 [Liferay Commerce](https://www.liferay.com/products/commerce) サブスクリプションがあり、インストールでアクティブ化されている場合は、次のようなインデックスもあります。
