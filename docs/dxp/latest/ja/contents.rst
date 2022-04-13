@@ -17,7 +17,7 @@
    system_administration
    building-applications
    liferay-internals
-   headless_delivery
+   headless-delivery
    installation-and-upgrades
 
 索引と表

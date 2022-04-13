@@ -16,7 +16,7 @@ Contents
    system_administration
    building-applications
    liferay-internals
-   headless_delivery
+   headless-delivery
    installation-and-upgrades
 
 Indices and tables
