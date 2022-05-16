@@ -1,6 +1,6 @@
 # Uploading Your App
 
-On this screen, you must specify your app’s version and upload your app’s files. Note that the article [Planning Your App’s Distribution](../planning-your-app's-distribution.md) helps you plan your app’s versioning scheme. Likewise, the article [Preparing Your App](../preparing-your-app.md) helps you determine which files to upload.
+On this screen, you must specify your app’s version and upload your app’s files. Note that the article [Planning Your App’s Distribution](../planning-your-apps-distribution.md) helps you plan your app’s versioning scheme. Likewise, the article [Preparing Your App](../preparing-your-app.md) helps you determine which files to upload.
 
 To start uploading, click Browse and select the files that make up your app. Each time you add a file, it automatically begins to upload and its compatibility information is scanned. You must upload at least one file before advancing beyond this screen. Once the files are successfully uploaded, a check mark appears next to each plugin, and the plugins are displayed based on their compatibility information.
 

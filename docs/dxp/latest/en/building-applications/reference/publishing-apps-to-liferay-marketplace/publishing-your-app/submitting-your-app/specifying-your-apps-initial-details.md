@@ -1,6 +1,6 @@
 # Specifying Your App’s Initial Details
 
-From this screen you enter your app’s basic details. Previous articles [Planning Your App’s Distribution](../planning-your-app's-distribution.md) and [Preparing Your App](../preparing-your-app.md) helped prepare you for filling in these details.
+From this screen you enter your app’s basic details. Previous articles [Planning Your App’s Distribution](../planning-your-apps-distribution.md) and [Preparing Your App](../preparing-your-app.md) helped prepare you for filling in these details.
 
 The top portion of the app wizard’s initial screen is shown in the figure below.
 
